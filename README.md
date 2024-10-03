@@ -1,4 +1,4 @@
-<h4 align="center">Open-source version of ConsenSys Academy's Blockchain Developer Bootcamp</h4>
+<h4 align="center">Open-source version of Consensys Academy's Blockchain Developer Bootcamp</h4>
 
 <br>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
   <sub>Created by
-  <a href="https://www.consensys.net" target="_blank">ConsenSys</a> and
+  <a href="https://www.consensys.net" target="_blank">Consensys</a> and
   <a href="https://github.com/ConsenSys-Academy/Blockchain-Developer-Bootcamp/graphs/contributors">contributors</a>
 </div>
 
@@ -189,7 +189,7 @@ An example of this process found below:
 4. Push to the branch (`git push origin branchName`)
 5. Create a new Pull Request
 
-Built by [ConsenSys](https://consensys.net/) and
+Built by [Consensys](https://consensys.net/) and
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=ConsenSys-Academy/Blockchain-Developer-Bootcamp)
 
